@@ -1,4 +1,4 @@
-int mystrcmp(const char str1[], const char2[])
+int mystrcmp(const char str1[], const char str2[])
 {
 	int i;
 	int n;
